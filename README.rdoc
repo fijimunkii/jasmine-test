@@ -1,1 +1,1 @@
-{<img src="https://travis-ci.org/fijimunkii/jasmine-test.png?branch=master" alt="Build Status" />}[https://travis-ci.org/fijimunkii/jasmine-test]
+{<img src="https://travis-ci.org/fijimunkii/jasmine-test.png?branch=master" alt="Build Status" />}[https://travis-ci.org/fijimunkii/jasmine-test]{<img src="https://coveralls.io/repos/fijimunkii/jasmine-test/badge.png" alt="Coverage Status" />}[https://coveralls.io/r/fijimunkii/jasmine-test]
